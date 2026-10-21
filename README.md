@@ -18,7 +18,7 @@ Predict machine failures **within the next 24 hours** from temperature, vibratio
 ## Quick start
 
 ```bash
-git clone https://github.com/ajinkyaadsul20-r/predictive-maintenance-ai.git
+git clone https://github.com/Rutuja0001/predictive-maintenance-ai.git
 cd predictive-maintenance-ai
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
